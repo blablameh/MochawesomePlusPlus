@@ -10,8 +10,8 @@ var mocha = new Mocha({
     ui: 'bdd',
     reporter: 'mochawesomeplusplus',
     reporterOptions: {
-        reportDir: './Results/testResults_' + (new Date().windowsFormat()),
-        reportName: 'testResults_' + (new Date().windowsFormat())
+        reportDir: './',
+        reportName: 'testResults_')
     },
     timeout: 60000
 });
