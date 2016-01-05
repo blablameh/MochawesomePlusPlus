@@ -4,7 +4,8 @@ This is a fork of Mochawesome reporter with added functionality in order to disp
 Usage remains the same as the Mocahwesome.
 
 e.g. Programatically:
-var Mocha = require('mocha')
+
+var Mocha = require('mocha');
 // Instantiate a Mocha instance.
 var mocha = new Mocha({
     ui: 'bdd',
