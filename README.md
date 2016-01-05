@@ -7,15 +7,16 @@ e.g. Programatically:
 
 var Mocha = require('mocha');
 // Instantiate a Mocha instance.
+
 var mocha = new Mocha({
     ui: 'bdd',
     reporter: 'mochawesomeplusplus',
     reporterOptions: {
-        reportDir: './',
-        reportName: 'testResults_')
+    reportDir: './',
+    reportName: 'testResults_'
     },
     timeout: 60000
-});
+    });
 
 or via Command line:
 mocha <test.js> --reporter mochawesomeplusplus
