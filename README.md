@@ -19,4 +19,4 @@ var mocha = new Mocha({
     });
 
 or via Command line:
-mocha <test.js> --reporter mochawesomeplusplus
+mocha test.js --reporter mochawesomeplusplus
