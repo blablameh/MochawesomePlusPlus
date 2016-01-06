@@ -1,5 +1,5 @@
 # MochawesomePlusPlus
-This is a fork of Mochawesome reporter with added functionality in order to display the expected result, the actual result and the differences between the two.
+This is a fork of Mochawesome reporter for Mocha test runner with added functionality in order to produce more verbose test reports and display the expected result, the actual result and the differences between the two.
 
 Installation of the module is fairly straight forward:
 npm install mochawesomeplusplus
