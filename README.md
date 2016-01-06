@@ -1,6 +1,10 @@
 # MochawesomePlusPlus
 This is a fork of Mochawesome reporter with added functionality in order to display the expected result, the actual result and the differences between the two.
 
+Installation of the module is fairly straight forward:
+npm install mochawesomeplusplus
+
+
 Usage remains the same as the Mocahwesome.
 
 e.g. Programatically:
