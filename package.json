@@ -1,20 +1,21 @@
 {
-  "name": "mochawesome",
+  "name": "mochawesomePlusPlus",
   "version": "1.2.1",
   "description": "A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
     "test": "gulp build"
   },
   "author": {
-    "name": "Adam Gruber"
+    "name": "Prashant Sinha"
   },
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adamgruber/mochawesome.git"
+    "url": "git+https://github.com/blablameh/MochawesomePlusPlus.git"
   },
   "keywords": [
     "mocha",
+	"mochawesome"
     "reporter",
     "json",
     "handlebars"
@@ -54,30 +55,35 @@
     "merge-stream": "^0.1.7",
     "should": "^3.3.2"
   },
-  "gitHead": "b9b86f6a0917efdaac7c4623cbca951ae8e3206c",
+  "gitHead": "b1f1edb5adf3656d4ece865086e0e0e6c726a1bd",
   "bugs": {
     "url": "https://github.com/adamgruber/mochawesome/issues"
   },
-  "homepage": "https://github.com/adamgruber/mochawesome",
-  "_id": "mochawesome@1.2.1",
-  "_shasum": "1280bd14154aae0357720d5882c9a285c148e2b4",
-  "_from": "mochawesome@*",
+  "homepage": "https://github.com/blablameh/Mochawesome-#readme",
+  "_id": "mochawesomeplusplus@1.1.0",
+  "_shasum": "a64bc012388faddd8fe12f95cc2b6f874edfd664",
+  "_from": "mochawesomeplusplus@*",
   "_npmVersion": "1.4.28",
   "_npmUser": {
-    "name": "adamgruber",
-    "email": "talknmime@gmail.com"
+    "name": "blablameh",
+    "email": "brooklyn1988@gmail.com"
   },
   "maintainers": [
     {
-      "name": "adamgruber",
-      "email": "talknmime@gmail.com"
+      "name": "blablameh",
+      "email": "brooklyn1988@gmail.com"
     }
   ],
   "dist": {
-    "shasum": "1280bd14154aae0357720d5882c9a285c148e2b4",
-    "tarball": "http://registry.npmjs.org/mochawesome/-/mochawesome-1.2.1.tgz"
+    "shasum": "a64bc012388faddd8fe12f95cc2b6f874edfd664",
+    "tarball": "http://registry.npmjs.org/mochawesomeplusplus/-/mochawesomeplusplus-1.0.0.tgz"
   },
+
+  
+  "keywords": [
+    "\"mocha\""
+  ],
   "directories": {},
   "_resolved": "https://registry.npmjs.org/mochawesome/-/mochawesome-1.2.1.tgz",
-  "readme": "ERROR: No README data found!"
+  "readme": "https://github.com/blablameh/MochawesomePlusPlus/blob/master/README.md"
 }
