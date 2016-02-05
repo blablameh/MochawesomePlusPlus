@@ -1,5 +1,5 @@
 {
-  "name": "mochawesomePlusPlus",
+  "name": "mochawesomeplusplus",
   "version": "1.2.1",
   "description": "A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
@@ -15,7 +15,6 @@
   },
   "keywords": [
     "mocha",
-	"mochawesome"
     "reporter",
     "json",
     "handlebars"
@@ -57,7 +56,7 @@
   },
   "gitHead": "b1f1edb5adf3656d4ece865086e0e0e6c726a1bd",
   "bugs": {
-    "url": "https://github.com/adamgruber/mochawesome/issues"
+    "url": "https://github.com/blablameh/MochawesomePlusPlus/issues"
   },
   "homepage": "https://github.com/blablameh/Mochawesome-#readme",
   "_id": "mochawesomeplusplus@1.1.0",
@@ -77,13 +76,11 @@
   "dist": {
     "shasum": "a64bc012388faddd8fe12f95cc2b6f874edfd664",
     "tarball": "http://registry.npmjs.org/mochawesomeplusplus/-/mochawesomeplusplus-1.0.0.tgz"
-  },
-
-  
+  },  
   "keywords": [
     "\"mocha\""
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/mochawesome/-/mochawesome-1.2.1.tgz",
+  "_resolved": "http://registry.npmjs.org/mochawesomeplusplus/-/mochawesomeplusplus-1.0.0.tgz",
   "readme": "https://github.com/blablameh/MochawesomePlusPlus/blob/master/README.md"
 }
